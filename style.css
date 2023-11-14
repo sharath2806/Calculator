@@ -1,0 +1,23 @@
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.row{
+    margin: 8px 0px;
+}
+.button{
+    padding: 20px;
+    margin: 3px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 55px;
+    background-color: blanchedalmond;
+}
+.row input{
+    font-size: 17px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: rgb(233, 240, 240);
+}
